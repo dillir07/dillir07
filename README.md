@@ -7,10 +7,11 @@ I am developer from India 🇮🇳
 - 💬 Ask me about RPA, Web Technologies, Python, Julia, JavaScript, TypeScript
 - ⚡ Fun fact: I count from zero
 
-#### 📫 How to reach me: @dillir07
 <a href="https://1drv.ms/w/s!AlQNpwIC2UL9syozb0FfUudkfyfj?e=J0411q">
     <img src="https://img.shields.io/badge/-Résumé-blue?labelColor=2196f3&color=2196f3">
 </a>
+
+#### 📫 How to reach me:
 <a href="https://dev.to/dillir07">
     <img src="https://img.shields.io/badge/-DEV-black?logo=dev.to&labelColor=0A0A0A&color=0A0A0A">
 </a>
@@ -20,6 +21,9 @@ I am developer from India 🇮🇳
 <a href="https://twitter.com/dillir07">
     <img src="https://img.shields.io/badge/-Twitter-red?logo=Twitter&labelColor=ffffff&color=1DA1F2">
 </a>
+<br>
+<br>
+
 
 <details open>
     <summary><b>Blog Articles</b></summary>
