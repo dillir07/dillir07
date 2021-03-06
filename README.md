@@ -1,6 +1,6 @@
 ### Hi 👋, I am Dilli
 
-I am developer from India 🇮🇳
+I am a developer from India 🇮🇳
 
 - 🔭 I’m currently working on RPA 🤖
 - 🌱 I love to explore and experiment with Machine Learning Algorithms, Web Technologies
@@ -28,6 +28,12 @@ I am developer from India 🇮🇳
 <details open>
     <summary><b>Blog Articles</b></summary>
     <ul>
+        <li>
+            <a target="_blank" rel="noreferrer"
+                href="https://dev.to/dillir07/better-way-to-handle-paths-in-python-3fmj">
+                Better way to handle paths in python
+            </a>
+        </li>
         <li>
             <a target="_blank" rel="noreferrer"
                 href="https://dev.to/dillir07/a-python-package-with-selenium-to-download-high-res-image-using-google-search-by-image-6ok">A
