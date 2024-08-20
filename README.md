@@ -2,8 +2,8 @@
 
 I am a developer from India 🇮🇳
 
-- 🔭 I’m currently working on Automation & RPA 🤖
-- 🌱 I love to explore and experiment with Machine Learning Algorithms, Web Technologies
+- 🔭 I work on AI Tech.
+- 🌱 I love to explore and experiment with Machine Learning Algorithms, Web Technologies, GAI.
 - 💬 Ask me about RPA, Web Technologies, Python, Julia, JavaScript, TypeScript
 - ⚡ Fun fact: I count from zero
 
